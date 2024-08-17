@@ -11,10 +11,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
