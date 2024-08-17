@@ -1,4 +1,4 @@
-### 👋 Olá! Sou o João Vitor, Bem-vindo ao meu perfil!
+# 👋 Olá! Sou o João Vitor, Bem-vindo ao meu perfil!
 
 🎓 
 Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente estagiário de TI na MRM McCann Worldgroup. Estou em constante aprendizado e buscando crescer na área de Tecnologia da Informação.
