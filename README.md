@@ -12,6 +12,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
 -  Linguagens de Programação: 
 
     [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev)
@@ -21,9 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma,ps)](https://skillicons.dev)
-- Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
 ##
 ### Experiência de trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRMun7l-k_b6II0SivAMoIkQnX50MXfk-ug&s"/>](https://www.mrmbrasil.com.br/)
@@ -40,7 +41,7 @@ Atuo como **Front-End Developer**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosilvaz&show_icons=true&locale=en" alt="joaosilvaz" /></p>
 
-
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
 ##
 🔗 Vamos nos conectar!
