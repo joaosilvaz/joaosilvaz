@@ -20,7 +20,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
