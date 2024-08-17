@@ -39,9 +39,9 @@ Atuo como **Front-End Developer**
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosilvaz&show_icons=true&locale=en&layout=compact" alt="joaosilvaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosilvaz&show_icons=true&locale=en" alt="joaosilvaz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="joaosilvaz" /></p>
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+
 
 ##
 🔗 Vamos nos conectar!
