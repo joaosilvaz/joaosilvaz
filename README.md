@@ -5,8 +5,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
 ##
 ### Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRMun7l-k_b6II0SivAMoIkQnX50MXfk-ug&s"/>](https://www.mrmbrasil.com.br/)
 
 **Estagiário de TI** \
