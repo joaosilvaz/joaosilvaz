@@ -17,7 +17,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,vite,dotnet)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,dotnet)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
