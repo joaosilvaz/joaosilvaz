@@ -11,10 +11,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts,cs)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs)](https://skillicons.dev) 
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,dotnet)](https://skillicons.dev)
@@ -23,7 +23,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,pycharm,figma,ps)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,idea,pycharm,figma,ps)](https://skillicons.dev)
 - Cloud & Devops:
 
     [![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://skillicons.dev)
