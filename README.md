@@ -6,22 +6,34 @@
 
 ## Technical Skills
 
-💻 Aqui estão algumas das tecnologias que eu domino:
 
--  Linguagens de Programação: 
+
+
+
+
+
+
+
+
+
+
+Cloud & DevOps:
+💻 Here are some of the technologies I work with:
+
+- Programming Languages:
 
     [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts,cs)](https://skillicons.dev)
-- Desenvolvimento Web:
+- Web Development:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs)](https://skillicons.dev) 
-- Frameworks e Bibliotecas: 
+- Frameworks and Libraries:
 
     [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,dotnet)](https://skillicons.dev)
-- Dados: 
+- Databases:
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-
+- Tools and Technologies:
+  
     [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,idea,pycharm,figma,ps)](https://skillicons.dev)
 - Cloud & Devops:
 
