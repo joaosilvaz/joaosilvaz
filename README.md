@@ -24,6 +24,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente est
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma,ps)](https://skillicons.dev)
+- Cloud & Devops:
+
+    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ##
 ### Experiência de trabalho
