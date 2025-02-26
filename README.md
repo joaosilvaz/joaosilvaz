@@ -7,17 +7,6 @@
 ## Technical Skills
 
 
-
-
-
-
-
-
-
-
-
-
-Cloud & DevOps:
 💻 Here are some of the technologies I work with:
 
 - Programming Languages:
