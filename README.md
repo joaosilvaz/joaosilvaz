@@ -29,14 +29,13 @@
     [![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://skillicons.dev)
 
 ##
-### Experiência de trabalho
+### Job Experience:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRMun7l-k_b6II0SivAMoIkQnX50MXfk-ug&s"/>](https://www.mrmbrasil.com.br/)
 
-Atuo como **Full Stack Developer** \
+**Full Stack Developer** \
 [**MRM McCann Worldgroup**]((https://www.mrmbrasil.com.br/)) • 9 Months\
-Atuo como **Full Stack Developer**
 
-**Clientes:** Mastercard - Diageo - GM - Leroy Merlin - Latam
+**Clients:** Mastercard - Diageo - GM - Leroy Merlin - Latam 
 
 
 ##
