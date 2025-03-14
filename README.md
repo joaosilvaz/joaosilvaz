@@ -32,9 +32,9 @@
 ### Experiência de trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRMun7l-k_b6II0SivAMoIkQnX50MXfk-ug&s"/>](https://www.mrmbrasil.com.br/)
 
-**Estagiário de TI** \
-[**MRM McCann Worldgroup**]((https://www.mrmbrasil.com.br/)) • 3 Months\
-Atuo como **Front-End Developer**
+Atuo como **Full Stack Developer** \
+[**MRM McCann Worldgroup**]((https://www.mrmbrasil.com.br/)) • 9 Months\
+Atuo como **Full Stack Developer**
 
 **Clientes:** Mastercard - Diageo - GM - Leroy Merlin - Latam
 
