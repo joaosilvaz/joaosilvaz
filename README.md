@@ -14,7 +14,7 @@
     [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts,cs)](https://skillicons.dev)
 - Web Development:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,nodejs)](https://skillicons.dev) 
 - Frameworks and Libraries:
 
     [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,dotnet,spring)](https://skillicons.dev)
