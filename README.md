@@ -23,7 +23,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 - Tools and Technologies:
   
-    [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,idea,pycharm,figma,ps)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,idea,pycharm,figma,ps,postman)](https://skillicons.dev)
 - Cloud & Devops:
 
     [![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://skillicons.dev)
